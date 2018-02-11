@@ -46,14 +46,18 @@ namespace Program
         static void Main(string[] args)
         {
 
-       //  bool res=   AppSettingsKeyValueMissing(new string[] {"name","age" });
+            //  bool res=   AppSettingsKeyValueMissing(new string[] {"name","age" });
 
             // Recursion.Pirnt();
 
 
             // LargeNumber.BiggerOne(new int[] {2,5,3,7,9 });
 
-            Operator.MixIncrement();
+            // Operator.MixIncrement();
+
+
+            Run3.Execute();
+           
 
             Console.Read();
         }

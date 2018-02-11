@@ -5,3 +5,10 @@ c:\users\a0747766\source\repos\Program\Program\bin\Debug\Program.exe
 c:\users\a0747766\source\repos\Program\Program\bin\Debug\Program.pdb
 c:\users\a0747766\source\repos\Program\Program\obj\Debug\Program.exe
 c:\users\a0747766\source\repos\Program\Program\obj\Debug\Program.pdb
+D:\Dotnetoops\Program\Program\bin\Debug\Program.exe.config
+D:\Dotnetoops\Program\Program\bin\Debug\Program.exe
+D:\Dotnetoops\Program\Program\bin\Debug\Program.pdb
+D:\Dotnetoops\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+D:\Dotnetoops\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\Dotnetoops\Program\Program\obj\Debug\Program.exe
+D:\Dotnetoops\Program\Program\obj\Debug\Program.pdb
