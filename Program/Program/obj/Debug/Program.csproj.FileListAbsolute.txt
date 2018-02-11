@@ -1,0 +1,7 @@
+c:\users\a0747766\source\repos\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+c:\users\a0747766\source\repos\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+c:\users\a0747766\source\repos\Program\Program\bin\Debug\Program.exe.config
+c:\users\a0747766\source\repos\Program\Program\bin\Debug\Program.exe
+c:\users\a0747766\source\repos\Program\Program\bin\Debug\Program.pdb
+c:\users\a0747766\source\repos\Program\Program\obj\Debug\Program.exe
+c:\users\a0747766\source\repos\Program\Program\obj\Debug\Program.pdb
